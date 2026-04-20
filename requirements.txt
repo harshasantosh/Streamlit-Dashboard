@@ -1,0 +1,3 @@
+openpyxl
+plotly==5.13.1
+streamlit==1.25.0
